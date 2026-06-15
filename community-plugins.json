@@ -33388,5 +33388,12 @@
     "author": "Latazadehomero",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Create your memory palaces in 3D",
     "repo": "latazadehomero/memory-palace"
+  },
+  {
+    "id": "obsidian-ttsreader",
+    "name": "Obsidian TTSReader",
+    "author": "sundy-li",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Read selected notes aloud with browser voices or TTSReader server voices.",
+    "repo": "sundy-li/obsidian-ttsreader"
   }
 ]
